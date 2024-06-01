@@ -25,6 +25,10 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
+## 📈 Stats
+![Uptime Badge](http://uptime.murzin.tech/api/badge/2/uptime?labelPrefix=murzin.tech+-+&style=for-the-badge)
+
+
 ## 📚 My Projects
 
 - [Project Name](link to project) - Brief project description

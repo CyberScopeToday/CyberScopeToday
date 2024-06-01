@@ -1,9 +1,9 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Alex
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying at [Your Institution]
-- 🔭 Currently working on [Project Name]
+- 🎓 Studying at Slovak University of Technology in Bratislava
+- 🔭 Currently working on CyberScope Today
 - 🌱 Learning [Technologies or Programming Languages]
 - 👯 Looking to collaborate on [Technologies or Topics]
 - 🤔 Seeking help with [Issue or Topic]
@@ -23,10 +23,11 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyberScopeToday)](https://git.io/streak-stats)
 
 ## 📈 Stats
-![Uptime Badge](http://uptime.murzin.tech/api/badge/2/uptime?labelPrefix=murzin.tech+-+&style=for-the-badge)
+![Uptime Badge](http://uptime.murzin.tech/api/badge/2/uptime?labelPrefix=murzin.tech+-+&style=plastic)
+![Response Time Badge](http://uptime.murzin.tech/api/badge/2/response?labelPrefix=murzin.tech+-+&style=plastic)
 
 
 ## 📚 My Projects

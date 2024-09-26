@@ -49,13 +49,11 @@
 
 - 🎓 Studying at Slovak University of Technology in Bratislava
 - 🔭 Currently working on **CyberScope Today**
-- 🌱 Learning [Technologies or Programming Languages]
-- 👯 Looking to collaborate on [Technologies or Topics]
-- 🤔 Seeking help with [Issue or Topic]
+- 🌱 Learning C,Python,Java
+- 👯 Looking to collaborate on Linux
+- 🤔 Seeking help with Develop
 - 💬 Ask me about [Topics or Skills]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact]
+- 📫 How to reach me: grande.chuvash@gmail.com
 
 ## 🖥 My Hardware
 
@@ -73,7 +71,6 @@
 - **Cooling:** Aigo AR12 120mm {6 fans} + Endorfy Fera 5 Dual Fan
 - **Graphics:** NVIDIA GeForce GTX 1660 SUPER 6GB
 - **Operating System:** Proxmox Virtual Environment 8.2.2
-- **Network:** [Network Specs, e.g., bandwidth, public IP availability]
 
 ### 💻 Main Machine (Laptop) - Legion 5 Pro 16ACH6H
 
@@ -85,13 +82,8 @@
 
 ## 🛠 Tech Stack
 
-- **Programming Languages:** [List Languages]
-- **Frameworks/Libraries:** [List Frameworks/Libraries]
-- **Development Tools:** [List Tools]
-- **Databases:** [List Databases]
-- **DevOps Tools:** [List DevOps Tools]
-- **Other:** [List Other Relevant Tools]
-
+- **Programming Languages:** C,Python,Java
+- **Databases:** MySQL,PHPmyadmin
 
 ## 📈 GitHub Stats
 

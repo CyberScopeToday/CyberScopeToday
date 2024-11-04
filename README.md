@@ -52,7 +52,7 @@
 - 🌱 Learning C,Python,Java
 - 👯 Looking to collaborate on Linux
 - 🤔 Seeking help with Develop
-- 💬 Ask me about [Topics or Skills]
+- 💬 Ask me about Unix
 - 📫 How to reach me: grande.chuvash@gmail.com
 
 ## 🖥 My Hardware
@@ -85,26 +85,6 @@
 - **Programming Languages:** C,Python,Java
 - **Databases:** MySQL,PHPmyadmin
 
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyberScopeToday)](https://git.io/streak-stats)
-
-## 📊 Uptime Stats
-
-![Uptime Badge](http://uptime.murzin.tech/api/badge/2/uptime?labelPrefix=murzin.tech+-+&style=plastic)
-![Response Time Badge](http://uptime.murzin.tech/api/badge/2/response?labelPrefix=murzin.tech+-+&style=plastic)
-
-## 📚 My Projects
-
-- [Project Name](link to project) - Brief project description
-- [Project Name](link to project) - Brief project description
-
 ## ☕ Support Me
 
 - **Buy Me a Coffee:** [Buy me a coffee](https://buymeacoffee.com/grandechuvash)
-
-## 🤝 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn](link to LinkedIn)
-- **Telegram:** [Your Telegram](link to Telegram)
-- **Instagram:** [Your Instagram](link to Instagram)

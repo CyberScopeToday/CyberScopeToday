@@ -80,6 +80,14 @@
 - **Graphics:** NVIDIA GeForce RTX 3060 Laptop GPU 6GB
 - **Operating System:** Microsoft Windows 11 Pro N
 
+### 💻 Second Machine (Laptop) - Lenovo ThinkPad L390
+
+- **Processor:** HexaCore AMD Ryzen 5 5600H, 4100 MHz (41.5 x 99) 
+- **RAM:** 16GB	Samsung M471A2K43DB1-CTD
+- **Storage:** NVMe INTEL SSDPEKKF256G8L 256G
+- **Graphics:** Intel(R) UHD Graphics 620  (1 GB)
+- **Operating System:** Microsoft Windows 11 Pro
+  
 ## 🛠 Tech Stack
 
 - **Programming Languages:** C,Python,Java

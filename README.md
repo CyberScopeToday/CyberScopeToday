@@ -1,4 +1,4 @@
-![Hello I'm Alex](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Hello%2C+I'm+Alex;Welcome+to+my+GitHub!+👨‍💻)
+![Hello I'm Alex](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Hello%2C+I'm+Alex;Mastermind+of+IoT+👨‍💻)
 
 ## 🛠 Tech Stack
 
@@ -90,7 +90,7 @@
   
 ## 🛠 Tech Stack
 
-- **Programming Languages:** C,Python,Java
+- **Programming Languages:** C,Python,Java,C++,Go
 - **Databases:** MySQL,PHPmyadmin
 
 ## ☕ Support Me
